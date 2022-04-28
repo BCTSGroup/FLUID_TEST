@@ -1,0 +1,14 @@
+{
+  "ip": "127.0.0.1",
+  "p2pPort": "2999",
+  "httpPort": "7999",
+  "bootNodes": [
+  ],
+  "ProducerAddress": [
+    "1CEKaGFuue6RSvS25BEwfnm6PDvDa1WDzN",
+    "1KA4hRhigbDNpLfaziy3u3hYX8feZNsmKs",
+    "17UqkJVLCR83kUfVXgAVMmCfxpYq7wPzvT",
+    "16Nxsd36KjXs6LctFemRPYdwdZbeGHjeVh",
+    "1BqQoXNeZXiRZVVTeQLDijDR9XoayjrQaR"
+  ]
+}

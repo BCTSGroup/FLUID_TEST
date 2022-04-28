@@ -1,0 +1,45 @@
+*.[oa]
+*~
+
+#ignore .log
+*.log
+log
+*.log.*
+
+#ignore 可执行文件
+*_runnable
+main
+
+#ignore db/
+db/
+DagInfo/
+AvailableTag/
+TagTable/
+
+#ignore idea和mac等无用目录
+#ignore idea等乱七八糟编辑器
+.idea/
+.vscode/
+.DS*/
+
+#*test/
+*.pprof
+db
+db_application
+db_node
+db_tmpQueryForAPI
+db_afid.db/
+db_profit_allocation/
+
+test/node/test7/address.txt
+test/node/test7/dpos.env
+test/node/test7/privateKey.pem
+test/node/test7/publicKey.pem
+test/node/test8/address.txt
+test/node/test8/dpos.env
+test/node/test8/privateKey.pem
+test/node/test8/publicKey.pem
+test/node/test9/address.txt
+test/node/test9/dpos.env
+test/node/test9/privateKey.pem
+test/node/test9/publicKey.pem

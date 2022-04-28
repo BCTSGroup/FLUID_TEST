@@ -1,0 +1,13 @@
+{
+	"depth": 0,
+    "hash" : "",
+	"prevHash" : "ORIGIN",
+    "tagType" : 0,
+    "body":{
+        "policyVersion":1,
+	    "policyAbstract":"Test",
+	    "permissionsList" :{"User1":"A","User2":"B"}
+    },
+    "miner" :"Junpei",
+    "signature" :"Junpei's signature."
+}

@@ -1,0 +1,30 @@
+{
+  "ip": "127.0.0.1",
+  "p2pPort": "3001",
+  "httpPort": "8001",
+  "bootNodes": [
+    "127.0.0.1:3000"
+  ],
+  "RNs": [
+    {
+      "rnid": "xxx",
+      "address": "xxx"
+    },
+    {
+      "rnid": "xxx",
+      "address": "xxx"
+    }
+  ],
+  "TNs": [
+    "1KA4hRhigbDNpLfaziy3u3hYX8feZNsmKs"
+  ],
+  "TNRoots": [
+    "http://39.98.204.223:27026"
+  ],
+  "FNList": [
+    "http://127.0.0.1:8009/rn/dat/fnode-daily/fnList"
+  ],
+  "AfidList": [
+    "http://127.0.0.1:8009/rn/dat/fnode-daily/afidList"
+  ]
+}

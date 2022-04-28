@@ -1,0 +1,41 @@
+{
+  "ip": "127.0.0.1",
+  "p2pPort": "3003",
+  "httpPort": "8003",
+  "bootNodes": [
+  ],
+  "RNs": [
+    {
+      "rnid": "9300",
+      "address": "1BqQoXNeZXiRZVVTeQLDijDR9XoayjrQaR"
+    },
+    {
+      "rnid": "9301",
+      "address": "16Nxsd36KjXs6LctFemRPYdwdZbeGHjeVh"
+    },
+    {
+      "rnid": "9302",
+      "address": "17UqkJVLCR83kUfVXgAVMmCfxpYq7wPzvT"
+    }
+  ],
+  "TNs": [
+    "1KA4hRhigbDNpLfaziy3u3hYX8feZNsmKs"
+  ],
+  "TNRoots": [
+    "http://39.107.50.27:5142"
+  ],
+  "FNList": [
+    "http://39.107.50.27:5142/rn/dat/fnode-daily/fnList"
+  ],
+  "AfidList": [
+    "http://39.107.50.27:5142/rn/dat/fnode-daily/afidList"
+  ],
+  "ProducerAddress": [
+    "1CEKaGFuue6RSvS25BEwfnm6PDvDa1WDzN",
+    "1KA4hRhigbDNpLfaziy3u3hYX8feZNsmKs",
+    "17UqkJVLCR83kUfVXgAVMmCfxpYq7wPzvT",
+    "16Nxsd36KjXs6LctFemRPYdwdZbeGHjeVh",
+    "1BqQoXNeZXiRZVVTeQLDijDR9XoayjrQaR"
+  ],
+  "ProfitAllocationTime": "0 0 2 * * *"
+}
